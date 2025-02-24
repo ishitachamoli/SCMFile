@@ -1,2 +1,3 @@
 New content
 This is a new change from local
+This is a remote change.
